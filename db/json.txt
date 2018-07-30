@@ -1,0 +1,4152 @@
+{
+	"lastModified" : 1384522967000,
+	"name" : "minimal effort",
+	"realm" : "Mannoroth",
+	"battlegroup" : "Blutdurst",
+	"level" : 25,
+	"side" : 1,
+	"achievementPoints" : 2155,
+	"members" : [{
+			"character" : {
+				"name" : "Isis",
+				"class" : 9,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 0,
+				"thumbnail" : "unknown/unknown-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Magei",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 6680,
+				"thumbnail" : "mannoroth/241/1873393-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arcane",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-arcane",
+					"icon" : "spell_holy_magicalsentry",
+					"description" : "Manipulate the arcane, destroying enemies with overwhelming power.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Tanham",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 9,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/152/2220184-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Assassination",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-assassination",
+					"icon" : "ability_rogue_eviscerate",
+					"description" : "A deadly master of poisons who dispatches victims with vicious dagger strikes.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Branek",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 15860,
+				"thumbnail" : "mannoroth/38/2824998-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Fury",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warrior-fury",
+					"icon" : "ability_warrior_innerrage",
+					"description" : "A furious berserker wielding a weapon in each hand, unleashing a flurry of attacks to carve her opponents to pieces.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Blingbling",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 4050,
+				"thumbnail" : "mannoroth/153/2959513-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-shaman-restoration",
+					"icon" : "spell_nature_magicimmunity",
+					"description" : "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Aqmuli",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/29/3102237-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Enhancement",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-enhancement",
+					"icon" : "spell_shaman_improvedstormstrike",
+					"description" : "A totemic warrior who strikes foes with weapons imbued with elemental power.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Trami",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 81,
+				"achievementPoints" : 4625,
+				"thumbnail" : "mannoroth/60/3259964-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Shadow",
+					"role" : "DPS",
+					"backgroundImage" : "bg-priest-shadow",
+					"icon" : "spell_shadow_shadowwordpain",
+					"description" : "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Joghurtbeche",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 8125,
+				"thumbnail" : "mannoroth/72/3303240-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-druid-restoration",
+					"icon" : "spell_nature_healingtouch",
+					"description" : "Uses heal-over-time Nature spells to keep allies alive.",
+					"order" : 3
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Ashuri",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15860,
+				"thumbnail" : "mannoroth/84/3366996-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Assassination",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-assassination",
+					"icon" : "ability_rogue_eviscerate",
+					"description" : "A deadly master of poisons who dispatches victims with vicious dagger strikes.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Stormwhisper",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 8300,
+				"thumbnail" : "mannoroth/140/3370124-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Hamsda",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 9,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 17905,
+				"thumbnail" : "mannoroth/208/3370192-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Discipline",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-priest-discipline",
+					"icon" : "spell_holy_powerwordshield",
+					"description" : "Uses magic to shield allies from taking damage as well as heal their wounds.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Tannjin",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/151/3382423-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Discipline",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-priest-discipline",
+					"icon" : "spell_holy_powerwordshield",
+					"description" : "Uses magic to shield allies from taking damage as well as heal their wounds.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Evilhunter",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 17905,
+				"thumbnail" : "mannoroth/35/3403811-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Survival",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-survival",
+					"icon" : "ability_hunter_camouflage",
+					"description" : "A rugged tracker who favors using animal venom, explosives and traps as deadly weapons.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Tarjin",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/95/3404895-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Früchtchen",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 8125,
+				"thumbnail" : "mannoroth/219/3541467-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Holy",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-priest-holy",
+					"icon" : "spell_holy_guardianspirit",
+					"description" : "A versatile healer who can reverse damage on individuals or groups and even heal from beyond the grave.",
+					"order" : 1
+				}
+			},
+			"rank" : 4
+		}, {
+			"character" : {
+				"name" : "Erok",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 15860,
+				"thumbnail" : "mannoroth/142/3542670-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Tanbom",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/131/3548035-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Tantau",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 1500,
+				"thumbnail" : "mannoroth/44/3551276-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Hademahde",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 6680,
+				"thumbnail" : "mannoroth/73/3584585-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Combat",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-combat",
+					"icon" : "ability_backstab",
+					"description" : "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Tanadin",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/137/6824329-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-paladin-protection",
+					"icon" : "ability_paladin_shieldofthetemplar",
+					"description" : "Uses Holy magic to shield himself and defend allies from attackers.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Tiraya",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 17905,
+				"thumbnail" : "mannoroth/171/7138475-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-paladin-protection",
+					"icon" : "ability_paladin_shieldofthetemplar",
+					"description" : "Uses Holy magic to shield himself and defend allies from attackers.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Mahagony",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 21370,
+				"thumbnail" : "mannoroth/76/8636748-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Combat",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-combat",
+					"icon" : "ability_backstab",
+					"description" : "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+					"order" : 1
+				}
+			},
+			"rank" : 1
+		}, {
+			"character" : {
+				"name" : "Bungee",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 21370,
+				"thumbnail" : "mannoroth/137/8708233-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Discipline",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-priest-discipline",
+					"icon" : "spell_holy_powerwordshield",
+					"description" : "Uses magic to shield allies from taking damage as well as heal their wounds.",
+					"order" : 0
+				}
+			},
+			"rank" : 1
+		}, {
+			"character" : {
+				"name" : "Erdbeerbear",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 86,
+				"achievementPoints" : 17110,
+				"thumbnail" : "mannoroth/205/8787405-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Feral",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-cat",
+					"icon" : "ability_druid_catform",
+					"description" : "Takes on the form of a great cat to deal damage with bleeds and bites.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Erdbeerbaer",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 87,
+				"achievementPoints" : 17110,
+				"thumbnail" : "mannoroth/212/9383892-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arcane",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-arcane",
+					"icon" : "spell_holy_magicalsentry",
+					"description" : "Manipulate the arcane, destroying enemies with overwhelming power.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Vimeli",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 17110,
+				"thumbnail" : "mannoroth/39/10688039-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Combat",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-combat",
+					"icon" : "ability_backstab",
+					"description" : "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Rheydon",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16725,
+				"thumbnail" : "mannoroth/120/11988600-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Elemental",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-elemental",
+					"icon" : "spell_nature_lightning",
+					"description" : "A spellcaster who harnesses the destructive forces of nature and the elements.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Clusters",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 21370,
+				"thumbnail" : "mannoroth/95/12660319-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 1
+		}, {
+			"character" : {
+				"name" : "Magel",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15860,
+				"thumbnail" : "mannoroth/142/13849998-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Nidhog",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 5350,
+				"thumbnail" : "mannoroth/119/13888631-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Bankmor",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 1,
+				"achievementPoints" : 0,
+				"thumbnail" : "mannoroth/233/16750825-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Kataya",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18675,
+				"thumbnail" : "mannoroth/184/17557432-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Dheryon",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16725,
+				"thumbnail" : "mannoroth/74/17962314-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Demonology",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-demonology",
+					"icon" : "spell_shadow_metamorphosis",
+					"description" : "A master of demonic magic who transforms into a demon and compels demonic powers to aid him.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Blo",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18415,
+				"thumbnail" : "mannoroth/224/18557408-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Fire",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-fire",
+					"icon" : "spell_fire_firebolt02",
+					"description" : "Ignite enemies with balls of fire and combustive flames.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Nècro",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 10,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 15860,
+				"thumbnail" : "mannoroth/224/18865120-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Shadow",
+					"role" : "DPS",
+					"backgroundImage" : "bg-priest-shadow",
+					"icon" : "spell_shadow_shadowwordpain",
+					"description" : "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Vierzehn",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 21370,
+				"thumbnail" : "mannoroth/35/21718563-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Balance",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-balance",
+					"icon" : "spell_nature_starfall",
+					"description" : "Can take on the form of a powerful Moonkin, balancing the power of Arcane and Nature magic to destroy enemies at a distance.",
+					"order" : 0
+				}
+			},
+			"rank" : 1
+		}, {
+			"character" : {
+				"name" : "Tandu",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/123/22646907-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Feral",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-cat",
+					"icon" : "ability_druid_catform",
+					"description" : "Takes on the form of a great cat to deal damage with bleeds and bites.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Fisiela",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 81,
+				"achievementPoints" : 5340,
+				"thumbnail" : "mannoroth/216/23846104-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Unholy",
+					"role" : "DPS",
+					"backgroundImage" : "bg-deathknight-unholy",
+					"icon" : "spell_deathknight_unholypresence",
+					"description" : "A master of death and decay, spreading infection and controlling undead minions to do her bidding.",
+					"order" : 2
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Tziki",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 9,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15860,
+				"thumbnail" : "mannoroth/57/23947577-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-deathknight-frost",
+					"icon" : "spell_deathknight_frostpresence",
+					"description" : "An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes.",
+					"order" : 1
+				}
+			},
+			"rank" : 0
+		}, {
+			"character" : {
+				"name" : "Tycrian",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 86,
+				"achievementPoints" : 6680,
+				"thumbnail" : "mannoroth/90/23988314-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Blood",
+					"role" : "TANK",
+					"backgroundImage" : "bg-deathknight-blood",
+					"icon" : "spell_deathknight_bloodpresence",
+					"description" : "A dark guardian who manipulates and corrupts life energy to sustain herself in the face of an enemy onslaught.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Brollo",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 88,
+				"achievementPoints" : 5465,
+				"thumbnail" : "mannoroth/6/24128262-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-druid-restoration",
+					"icon" : "spell_nature_healingtouch",
+					"description" : "Uses heal-over-time Nature spells to keep allies alive.",
+					"order" : 3
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Dkdenz",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 10,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16725,
+				"thumbnail" : "mannoroth/135/24299911-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-deathknight-frost",
+					"icon" : "spell_deathknight_frostpresence",
+					"description" : "An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Caluthien",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 6750,
+				"thumbnail" : "mannoroth/173/24373933-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Shadow",
+					"role" : "DPS",
+					"backgroundImage" : "bg-priest-shadow",
+					"icon" : "spell_shadow_shadowwordpain",
+					"description" : "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Khrodyus",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16725,
+				"thumbnail" : "mannoroth/60/26707004-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Rheypew",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 63,
+				"achievementPoints" : 13130,
+				"thumbnail" : "mannoroth/42/27179050-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Obeta",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18355,
+				"thumbnail" : "mannoroth/80/27266128-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Benara",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15860,
+				"thumbnail" : "mannoroth/67/28554307-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Colina",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 2,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 6575,
+				"thumbnail" : "mannoroth/143/28594063-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Kamura",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 88,
+				"achievementPoints" : 18385,
+				"thumbnail" : "mannoroth/186/30128314-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Feral",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-cat",
+					"icon" : "ability_druid_catform",
+					"description" : "Takes on the form of a great cat to deal damage with bleeds and bites.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Sayrin",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18385,
+				"thumbnail" : "mannoroth/209/30439889-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Kaldorian",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 19080,
+				"thumbnail" : "mannoroth/148/30582932-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Buta",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 16725,
+				"thumbnail" : "mannoroth/234/30613994-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Fire",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-fire",
+					"icon" : "spell_fire_firebolt02",
+					"description" : "Ignite enemies with balls of fire and combustive flames.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Casilda",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 16260,
+				"thumbnail" : "mannoroth/221/30641117-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Trubtana",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 86,
+				"achievementPoints" : 16170,
+				"thumbnail" : "mannoroth/52/30648116-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arms",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warrior-arms",
+					"icon" : "ability_warrior_savageblow",
+					"description" : "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Trubsi",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 16725,
+				"thumbnail" : "mannoroth/178/31133874-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-druid-restoration",
+					"icon" : "spell_nature_healingtouch",
+					"description" : "Uses heal-over-time Nature spells to keep allies alive.",
+					"order" : 3
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Ysari",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 0,
+				"thumbnail" : "mannoroth/152/31937944-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Hurly",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 7125,
+				"thumbnail" : "mannoroth/122/32131194-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Kaita",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 89,
+				"achievementPoints" : 9465,
+				"thumbnail" : "mannoroth/184/33089208-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-shaman-restoration",
+					"icon" : "spell_nature_magicimmunity",
+					"description" : "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Rheythm",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16630,
+				"thumbnail" : "mannoroth/47/33122351-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Survival",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-survival",
+					"icon" : "ability_hunter_camouflage",
+					"description" : "A rugged tracker who favors using animal venom, explosives and traps as deadly weapons.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Phyllis",
+				"class" : 5,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 0,
+				"thumbnail" : "unknown/unknown-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Ekbert",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 11670,
+				"thumbnail" : "mannoroth/184/34712760-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Hydrazin",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 86,
+				"achievementPoints" : 11475,
+				"thumbnail" : "mannoroth/102/35648358-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Aphroditê",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 5140,
+				"thumbnail" : "mannoroth/32/35822880-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Shadow",
+					"role" : "DPS",
+					"backgroundImage" : "bg-priest-shadow",
+					"icon" : "spell_shadow_shadowwordpain",
+					"description" : "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Raikon",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 17905,
+				"thumbnail" : "mannoroth/137/36047497-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Combat",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-combat",
+					"icon" : "ability_backstab",
+					"description" : "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Mskeks",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 17110,
+				"thumbnail" : "mannoroth/202/36172746-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Camura",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18385,
+				"thumbnail" : "mannoroth/246/36248566-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Survival",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-survival",
+					"icon" : "ability_hunter_camouflage",
+					"description" : "A rugged tracker who favors using animal venom, explosives and traps as deadly weapons.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Ixton",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 3940,
+				"thumbnail" : "mannoroth/17/38019345-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-paladin-protection",
+					"icon" : "ability_paladin_shieldofthetemplar",
+					"description" : "Uses Holy magic to shield himself and defend allies from attackers.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Shurkira",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18675,
+				"thumbnail" : "mannoroth/42/38271530-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Combat",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-combat",
+					"icon" : "ability_backstab",
+					"description" : "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Seyrin",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18345,
+				"thumbnail" : "mannoroth/74/38478922-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Blood",
+					"role" : "TANK",
+					"backgroundImage" : "bg-deathknight-blood",
+					"icon" : "spell_deathknight_bloodpresence",
+					"description" : "A dark guardian who manipulates and corrupts life energy to sustain herself in the face of an enemy onslaught.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Athamas",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 3630,
+				"thumbnail" : "mannoroth/228/39007460-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Elemental",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-elemental",
+					"icon" : "spell_nature_lightning",
+					"description" : "A spellcaster who harnesses the destructive forces of nature and the elements.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Buuta",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 15895,
+				"thumbnail" : "mannoroth/92/39958620-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Demonology",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-demonology",
+					"icon" : "spell_shadow_metamorphosis",
+					"description" : "A master of demonic magic who transforms into a demon and compels demonic powers to aid him.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Rheyleigh",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 14775,
+				"thumbnail" : "mannoroth/182/40206518-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Buhta",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 2,
+				"gender" : 1,
+				"level" : 84,
+				"achievementPoints" : 16170,
+				"thumbnail" : "mannoroth/132/40258948-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Enhancement",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-enhancement",
+					"icon" : "spell_shaman_improvedstormstrike",
+					"description" : "A totemic warrior who strikes foes with weapons imbued with elemental power.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Joeawesome",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 81,
+				"achievementPoints" : 1600,
+				"thumbnail" : "mannoroth/133/42736517-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Seyren",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18345,
+				"thumbnail" : "mannoroth/110/44845422-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Assassination",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-assassination",
+					"icon" : "ability_rogue_eviscerate",
+					"description" : "A deadly master of poisons who dispatches victims with vicious dagger strikes.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Nassumi",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 9,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 17110,
+				"thumbnail" : "mannoroth/158/47088030-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-shaman-restoration",
+					"icon" : "spell_nature_magicimmunity",
+					"description" : "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Butani",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 9,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 15845,
+				"thumbnail" : "mannoroth/14/47476494-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Survival",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-survival",
+					"icon" : "ability_hunter_camouflage",
+					"description" : "A rugged tracker who favors using animal venom, explosives and traps as deadly weapons.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Sheer",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 70,
+				"achievementPoints" : 18440,
+				"thumbnail" : "mannoroth/254/48057598-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 1
+		}, {
+			"character" : {
+				"name" : "Vivy",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 17110,
+				"thumbnail" : "mannoroth/236/48815852-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Tekar",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 9,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 11035,
+				"thumbnail" : "mannoroth/240/49208048-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Assassination",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-assassination",
+					"icon" : "ability_rogue_eviscerate",
+					"description" : "A deadly master of poisons who dispatches victims with vicious dagger strikes.",
+					"order" : 0
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Bénedigt",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 6215,
+				"thumbnail" : "mannoroth/205/49242061-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Balance",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-balance",
+					"icon" : "spell_nature_starfall",
+					"description" : "Can take on the form of a powerful Moonkin, balancing the power of Arcane and Nature magic to destroy enemies at a distance.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Kitanaa",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 9,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 13250,
+				"thumbnail" : "mannoroth/3/49573123-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Elemental",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-elemental",
+					"icon" : "spell_nature_lightning",
+					"description" : "A spellcaster who harnesses the destructive forces of nature and the elements.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Latanisha",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 14100,
+				"thumbnail" : "mannoroth/103/49750119-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Demonology",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-demonology",
+					"icon" : "spell_shadow_metamorphosis",
+					"description" : "A master of demonic magic who transforms into a demon and compels demonic powers to aid him.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Aicha",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 9,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 6595,
+				"thumbnail" : "mannoroth/176/49922224-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Subtlety",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-subtlety",
+					"icon" : "ability_stealth",
+					"description" : "A dark stalker who leaps from the shadows to ambush her unsuspecting prey.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Capyna",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 17110,
+				"thumbnail" : "mannoroth/92/51373404-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Blood",
+					"role" : "TANK",
+					"backgroundImage" : "bg-deathknight-blood",
+					"icon" : "spell_deathknight_bloodpresence",
+					"description" : "A dark guardian who manipulates and corrupts life energy to sustain herself in the face of an enemy onslaught.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Rhavn",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13980,
+				"thumbnail" : "mannoroth/119/51583095-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Escapé",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 9,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 12415,
+				"thumbnail" : "mannoroth/57/51588665-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Shadow",
+					"role" : "DPS",
+					"backgroundImage" : "bg-priest-shadow",
+					"icon" : "spell_shadow_shadowwordpain",
+					"description" : "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Trinitrotulo",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13980,
+				"thumbnail" : "mannoroth/42/51656746-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Survival",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-survival",
+					"icon" : "ability_hunter_camouflage",
+					"description" : "A rugged tracker who favors using animal venom, explosives and traps as deadly weapons.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Sronak",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 5740,
+				"thumbnail" : "mannoroth/230/52057318-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Enhancement",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-enhancement",
+					"icon" : "spell_shaman_improvedstormstrike",
+					"description" : "A totemic warrior who strikes foes with weapons imbued with elemental power.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Taluma",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 5380,
+				"thumbnail" : "mannoroth/207/52283343-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 4
+		}, {
+			"character" : {
+				"name" : "Dezine",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 5960,
+				"thumbnail" : "mannoroth/219/52284379-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Tiantu",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 82,
+				"achievementPoints" : 2040,
+				"thumbnail" : "mannoroth/234/52454890-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Holy",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-priest-holy",
+					"icon" : "spell_holy_guardianspirit",
+					"description" : "A versatile healer who can reverse damage on individuals or groups and even heal from beyond the grave.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Huntei",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 10,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 6320,
+				"thumbnail" : "mannoroth/199/52717511-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Narthos",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 70,
+				"achievementPoints" : 16400,
+				"thumbnail" : "mannoroth/50/52955186-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Guardian",
+					"role" : "TANK",
+					"backgroundImage" : "bg-druid-bear",
+					"icon" : "ability_racial_bearform",
+					"description" : "Takes on the form of a mighty bear to absorb damage and protect allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Violo",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 3940,
+				"thumbnail" : "mannoroth/51/52996147-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Atuba",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 2,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 16170,
+				"thumbnail" : "mannoroth/91/53047387-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Combat",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-combat",
+					"icon" : "ability_backstab",
+					"description" : "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Talumi",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 3000,
+				"thumbnail" : "mannoroth/176/53648048-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Holy",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-paladin-holy",
+					"icon" : "spell_holy_holybolt",
+					"description" : "Invokes the power of the Light to protect and to heal.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Akariaa",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 72,
+				"achievementPoints" : 17110,
+				"thumbnail" : "mannoroth/58/53729594-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Demonology",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-demonology",
+					"icon" : "spell_shadow_metamorphosis",
+					"description" : "A master of demonic magic who transforms into a demon and compels demonic powers to aid him.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Naiu",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 6400,
+				"thumbnail" : "mannoroth/219/53820379-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Sheu",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 86,
+				"achievementPoints" : 6320,
+				"thumbnail" : "mannoroth/136/53982088-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Balance",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-balance",
+					"icon" : "spell_nature_starfall",
+					"description" : "Can take on the form of a powerful Moonkin, balancing the power of Arcane and Nature magic to destroy enemies at a distance.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Aalette",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 33,
+				"achievementPoints" : 110,
+				"thumbnail" : "mannoroth/242/54131186-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Lette",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 47,
+				"achievementPoints" : 5960,
+				"thumbnail" : "mannoroth/218/54200026-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Fotm",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 1,
+				"achievementPoints" : 0,
+				"thumbnail" : "mannoroth/159/54225567-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Sodok",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 71,
+				"achievementPoints" : 5785,
+				"thumbnail" : "mannoroth/137/54734985-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-shaman-restoration",
+					"icon" : "spell_nature_magicimmunity",
+					"description" : "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Tangip",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/82/55325266-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-deathknight-frost",
+					"icon" : "spell_deathknight_frostpresence",
+					"description" : "An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Escâpe",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 10,
+				"achievementPoints" : 30,
+				"thumbnail" : "mannoroth/206/55479246-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Decus",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 72,
+				"achievementPoints" : 18715,
+				"thumbnail" : "mannoroth/135/55540615-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Blood",
+					"role" : "TANK",
+					"backgroundImage" : "bg-deathknight-blood",
+					"icon" : "spell_deathknight_bloodpresence",
+					"description" : "A dark guardian who manipulates and corrupts life energy to sustain herself in the face of an enemy onslaught.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Sancordia",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 13980,
+				"thumbnail" : "mannoroth/101/55557989-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Discipline",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-priest-discipline",
+					"icon" : "spell_holy_powerwordshield",
+					"description" : "Uses magic to shield allies from taking damage as well as heal their wounds.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Kamuri",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18355,
+				"thumbnail" : "mannoroth/145/55917713-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Destruction",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-destruction",
+					"icon" : "spell_shadow_rainoffire",
+					"description" : "A master of chaos who calls down fire to burn and demolish enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Escapê",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 10,
+				"achievementPoints" : 11120,
+				"thumbnail" : "mannoroth/27/56031515-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Clîxx",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 4,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 70,
+				"achievementPoints" : 6895,
+				"thumbnail" : "mannoroth/187/56150459-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Combat",
+					"role" : "DPS",
+					"backgroundImage" : "bg-rogue-combat",
+					"icon" : "ability_backstab",
+					"description" : "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Coolstrybro",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 70,
+				"achievementPoints" : 360,
+				"thumbnail" : "mannoroth/218/56150490-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Kripki",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 9,
+				"gender" : 0,
+				"level" : 60,
+				"achievementPoints" : 18440,
+				"thumbnail" : "mannoroth/77/56184397-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Enhancement",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-enhancement",
+					"icon" : "spell_shaman_improvedstormstrike",
+					"description" : "A totemic warrior who strikes foes with weapons imbued with elemental power.",
+					"order" : 1
+				}
+			},
+			"rank" : 1
+		}, {
+			"character" : {
+				"name" : "Muuzi",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 3600,
+				"thumbnail" : "mannoroth/245/56294901-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Vinnetu",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 9,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 3265,
+				"thumbnail" : "mannoroth/182/56836022-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arcane",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-arcane",
+					"icon" : "spell_holy_magicalsentry",
+					"description" : "Manipulate the arcane, destroying enemies with overwhelming power.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Zara",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 14320,
+				"thumbnail" : "mannoroth/13/56924429-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Shadow",
+					"role" : "DPS",
+					"backgroundImage" : "bg-priest-shadow",
+					"icon" : "spell_shadow_shadowwordpain",
+					"description" : "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Zaram",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 53,
+				"achievementPoints" : 0,
+				"thumbnail" : "mannoroth/121/56974201-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Genjulein",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 14175,
+				"thumbnail" : "mannoroth/111/56975983-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Balance",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-balance",
+					"icon" : "spell_nature_starfall",
+					"description" : "Can take on the form of a powerful Moonkin, balancing the power of Arcane and Nature magic to destroy enemies at a distance.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Zaradee",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 14320,
+				"thumbnail" : "mannoroth/213/56990165-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-deathknight-frost",
+					"icon" : "spell_deathknight_frostpresence",
+					"description" : "An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes.",
+					"order" : 1
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Genjuline",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 9,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15165,
+				"thumbnail" : "mannoroth/17/57000209-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-shaman-restoration",
+					"icon" : "spell_nature_magicimmunity",
+					"description" : "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Knows",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 1195,
+				"thumbnail" : "mannoroth/180/57027508-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Adaro",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 900,
+				"thumbnail" : "mannoroth/109/57119341-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Talumo",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 4905,
+				"thumbnail" : "mannoroth/84/57165652-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Jaxxa",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 72,
+				"achievementPoints" : 3890,
+				"thumbnail" : "mannoroth/223/57265631-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arcane",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-arcane",
+					"icon" : "spell_holy_magicalsentry",
+					"description" : "Manipulate the arcane, destroying enemies with overwhelming power.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Ralfi",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 5465,
+				"thumbnail" : "mannoroth/200/57603528-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Blood",
+					"role" : "TANK",
+					"backgroundImage" : "bg-deathknight-blood",
+					"icon" : "spell_deathknight_bloodpresence",
+					"description" : "A dark guardian who manipulates and corrupts life energy to sustain herself in the face of an enemy onslaught.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Zaralo",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 67,
+				"achievementPoints" : 12740,
+				"thumbnail" : "mannoroth/46/57883694-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Affliction",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-affliction",
+					"icon" : "spell_shadow_deathcoil",
+					"description" : "A master of shadow magic who specializes in drains and damage-over-time spells.",
+					"order" : 0
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Seyuani",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 6320,
+				"thumbnail" : "mannoroth/14/58077454-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Holy",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-paladin-holy",
+					"icon" : "spell_holy_holybolt",
+					"description" : "Invokes the power of the Light to protect and to heal.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Mokthar",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 6320,
+				"thumbnail" : "mannoroth/217/58269657-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Destruction",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-destruction",
+					"icon" : "spell_shadow_rainoffire",
+					"description" : "A master of chaos who calls down fire to burn and demolish enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Ioazuhv",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 6320,
+				"thumbnail" : "mannoroth/128/58392448-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-deathknight-frost",
+					"icon" : "spell_deathknight_frostpresence",
+					"description" : "An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Towbee",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 12490,
+				"thumbnail" : "mannoroth/198/58805446-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Feral",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-cat",
+					"icon" : "ability_druid_catform",
+					"description" : "Takes on the form of a great cat to deal damage with bleeds and bites.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Towbeert",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 85,
+				"achievementPoints" : 12190,
+				"thumbnail" : "mannoroth/126/58940798-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Nullgor",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 11670,
+				"thumbnail" : "mannoroth/86/59177302-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arms",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warrior-arms",
+					"icon" : "ability_warrior_savageblow",
+					"description" : "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+					"order" : 0
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Thalldoran",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 4235,
+				"thumbnail" : "mannoroth/103/59435623-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Feral",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-cat",
+					"icon" : "ability_druid_catform",
+					"description" : "Takes on the form of a great cat to deal damage with bleeds and bites.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Mitsy",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 64,
+				"achievementPoints" : 3950,
+				"thumbnail" : "mannoroth/37/59668005-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Survival",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-survival",
+					"icon" : "ability_hunter_camouflage",
+					"description" : "A rugged tracker who favors using animal venom, explosives and traps as deadly weapons.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Schwahans",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 72,
+				"achievementPoints" : 11380,
+				"thumbnail" : "mannoroth/199/59677383-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Elemental",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-elemental",
+					"icon" : "spell_nature_lightning",
+					"description" : "A spellcaster who harnesses the destructive forces of nature and the elements.",
+					"order" : 0
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Genjuchen",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 10,
+				"achievementPoints" : 12335,
+				"thumbnail" : "mannoroth/206/59695566-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arms",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warrior-arms",
+					"icon" : "ability_warrior_savageblow",
+					"description" : "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Zaree",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 14320,
+				"thumbnail" : "mannoroth/122/59865978-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Balance",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-balance",
+					"icon" : "spell_nature_starfall",
+					"description" : "Can take on the form of a powerful Moonkin, balancing the power of Arcane and Nature magic to destroy enemies at a distance.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Panzerknacka",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 3670,
+				"thumbnail" : "mannoroth/47/59887919-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arms",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warrior-arms",
+					"icon" : "ability_warrior_savageblow",
+					"description" : "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Talumu",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 4905,
+				"thumbnail" : "mannoroth/78/59887950-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Balance",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-balance",
+					"icon" : "spell_nature_starfall",
+					"description" : "Can take on the form of a powerful Moonkin, balancing the power of Arcane and Nature magic to destroy enemies at a distance.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Tandaa",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 13175,
+				"thumbnail" : "mannoroth/251/60228859-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Windwalker",
+					"role" : "DPS",
+					"backgroundImage" : "bg-monk-battledancer",
+					"icon" : "spell_monk_windwalker_spec",
+					"description" : "A martial artist without peer who pummels foes with hands and fists.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Tandao",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 20,
+				"achievementPoints" : 3090,
+				"thumbnail" : "mannoroth/73/60309321-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Brewmaster",
+					"role" : "TANK",
+					"backgroundImage" : "bg-monk-brewmaster",
+					"icon" : "spell_monk_brewmaster_spec",
+					"description" : "A sturdy brawler who uses liquid fortification and unpredictable movement to avoid damage and protect allies.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Oria",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 19010,
+				"thumbnail" : "mannoroth/85/60333141-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Brewmaster",
+					"role" : "TANK",
+					"backgroundImage" : "bg-monk-brewmaster",
+					"icon" : "spell_monk_brewmaster_spec",
+					"description" : "A sturdy brawler who uses liquid fortification and unpredictable movement to avoid damage and protect allies.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Koaala",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 41,
+				"achievementPoints" : 4380,
+				"thumbnail" : "mannoroth/222/60370398-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Brewmaster",
+					"role" : "TANK",
+					"backgroundImage" : "bg-monk-brewmaster",
+					"icon" : "spell_monk_brewmaster_spec",
+					"description" : "A sturdy brawler who uses liquid fortification and unpredictable movement to avoid damage and protect allies.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Dawgbaws",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 36,
+				"achievementPoints" : 3465,
+				"thumbnail" : "mannoroth/53/60383285-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Mistweaver",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-monk-mistweaver",
+					"icon" : "spell_monk_mistweaver_spec",
+					"description" : "A healer who mixes traditional herbal medicine with Pandaren martial arts.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Butsi",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 16160,
+				"thumbnail" : "mannoroth/180/60543668-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Brewmaster",
+					"role" : "TANK",
+					"backgroundImage" : "bg-monk-brewmaster",
+					"icon" : "spell_monk_brewmaster_spec",
+					"description" : "A sturdy brawler who uses liquid fortification and unpredictable movement to avoid damage and protect allies.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Qexn",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 12745,
+				"thumbnail" : "mannoroth/232/60573160-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-frost",
+					"icon" : "spell_frost_frostbolt02",
+					"description" : "Freezes enemies in their tracks and shatters them with Frost magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Kastia",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 18345,
+				"thumbnail" : "mannoroth/198/60661702-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Mistweaver",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-monk-mistweaver",
+					"icon" : "spell_monk_mistweaver_spec",
+					"description" : "A healer who mixes traditional herbal medicine with Pandaren martial arts.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Yoshen",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 55,
+				"achievementPoints" : 14800,
+				"thumbnail" : "mannoroth/64/60686400-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Windwalker",
+					"role" : "DPS",
+					"backgroundImage" : "bg-monk-battledancer",
+					"icon" : "spell_monk_windwalker_spec",
+					"description" : "A martial artist without peer who pummels foes with hands and fists.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Kelda",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 5690,
+				"thumbnail" : "mannoroth/229/60853733-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Brewmaster",
+					"role" : "TANK",
+					"backgroundImage" : "bg-monk-brewmaster",
+					"icon" : "spell_monk_brewmaster_spec",
+					"description" : "A sturdy brawler who uses liquid fortification and unpredictable movement to avoid damage and protect allies.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Eskape",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 12,
+				"achievementPoints" : 12075,
+				"thumbnail" : "mannoroth/32/60916512-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Windwalker",
+					"role" : "DPS",
+					"backgroundImage" : "bg-monk-battledancer",
+					"icon" : "spell_monk_windwalker_spec",
+					"description" : "A martial artist without peer who pummels foes with hands and fists.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Gadjin",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 7845,
+				"thumbnail" : "mannoroth/217/60956633-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Guardian",
+					"role" : "TANK",
+					"backgroundImage" : "bg-druid-bear",
+					"icon" : "ability_racial_bearform",
+					"description" : "Takes on the form of a mighty bear to absorb damage and protect allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Mcbene",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 46,
+				"achievementPoints" : 6205,
+				"thumbnail" : "mannoroth/12/61000460-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arcane",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-arcane",
+					"icon" : "spell_holy_magicalsentry",
+					"description" : "Manipulate the arcane, destroying enemies with overwhelming power.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Genju",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 15165,
+				"thumbnail" : "mannoroth/28/61090588-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Mistweaver",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-monk-mistweaver",
+					"icon" : "spell_monk_mistweaver_spec",
+					"description" : "A healer who mixes traditional herbal medicine with Pandaren martial arts.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Pandasun",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 23,
+				"achievementPoints" : 6205,
+				"thumbnail" : "mannoroth/124/61531260-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Windwalker",
+					"role" : "DPS",
+					"backgroundImage" : "bg-monk-battledancer",
+					"icon" : "spell_monk_windwalker_spec",
+					"description" : "A martial artist without peer who pummels foes with hands and fists.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Shirvalla",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16270,
+				"thumbnail" : "mannoroth/52/62062388-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Guardian",
+					"role" : "TANK",
+					"backgroundImage" : "bg-druid-bear",
+					"icon" : "ability_racial_bearform",
+					"description" : "Takes on the form of a mighty bear to absorb damage and protect allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Daromar",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16280,
+				"thumbnail" : "mannoroth/190/62091710-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Runera",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15860,
+				"thumbnail" : "mannoroth/55/62243383-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Destruction",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-destruction",
+					"icon" : "spell_shadow_rainoffire",
+					"description" : "A master of chaos who calls down fire to burn and demolish enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Azmodhan",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 5,
+				"achievementPoints" : 0,
+				"thumbnail" : "mannoroth/157/62423709-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Lershz",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 70,
+				"achievementPoints" : 12745,
+				"thumbnail" : "mannoroth/34/62944034-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Balance",
+					"role" : "DPS",
+					"backgroundImage" : "bg-druid-balance",
+					"icon" : "spell_nature_starfall",
+					"description" : "Can take on the form of a powerful Moonkin, balancing the power of Arcane and Nature magic to destroy enemies at a distance.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Shurelias",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 1,
+				"level" : 23,
+				"achievementPoints" : 11880,
+				"thumbnail" : "mannoroth/158/63364254-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Brewmaster",
+					"role" : "TANK",
+					"backgroundImage" : "bg-monk-brewmaster",
+					"icon" : "spell_monk_brewmaster_spec",
+					"description" : "A sturdy brawler who uses liquid fortification and unpredictable movement to avoid damage and protect allies.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Trade",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16520,
+				"thumbnail" : "mannoroth/54/63539254-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Frost",
+					"role" : "DPS",
+					"backgroundImage" : "bg-deathknight-frost",
+					"icon" : "spell_deathknight_frostpresence",
+					"description" : "An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes.",
+					"order" : 1
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Lynatik",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 15760,
+				"thumbnail" : "mannoroth/249/63613689-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Shadow",
+					"role" : "DPS",
+					"backgroundImage" : "bg-priest-shadow",
+					"icon" : "spell_shadow_shadowwordpain",
+					"description" : "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Lynatic",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15760,
+				"thumbnail" : "mannoroth/203/63675595-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Shøx",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 22,
+				"achievementPoints" : 14205,
+				"thumbnail" : "mannoroth/207/63820751-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Discipline",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-priest-discipline",
+					"icon" : "spell_holy_powerwordshield",
+					"description" : "Uses magic to shield allies from taking damage as well as heal their wounds.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Tankscape",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 57,
+				"achievementPoints" : 12135,
+				"thumbnail" : "mannoroth/83/64240211-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Lynaticc",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 7,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 15760,
+				"thumbnail" : "mannoroth/2/64282882-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Elemental",
+					"role" : "DPS",
+					"backgroundImage" : "bg-shaman-elemental",
+					"icon" : "spell_nature_lightning",
+					"description" : "A spellcaster who harnesses the destructive forces of nature and the elements.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Cerealfit",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 13970,
+				"thumbnail" : "mannoroth/121/64312185-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Windwalker",
+					"role" : "DPS",
+					"backgroundImage" : "bg-monk-battledancer",
+					"icon" : "spell_monk_windwalker_spec",
+					"description" : "A martial artist without peer who pummels foes with hands and fists.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Escape",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 12415,
+				"thumbnail" : "mannoroth/103/64454503-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Holy",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-paladin-holy",
+					"icon" : "spell_holy_holybolt",
+					"description" : "Invokes the power of the Light to protect and to heal.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Qex",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 12745,
+				"thumbnail" : "mannoroth/42/64454954-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Beast Mastery",
+					"role" : "DPS",
+					"backgroundImage" : "bg-hunter-beastmaster",
+					"icon" : "ability_hunter_bestialdiscipline",
+					"description" : "A master of the wild who can tame a wide variety of beasts to assist her in combat.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Bört",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 12450,
+				"thumbnail" : "mannoroth/117/64455797-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Brewmaster",
+					"role" : "TANK",
+					"backgroundImage" : "bg-monk-brewmaster",
+					"icon" : "spell_monk_brewmaster_spec",
+					"description" : "A sturdy brawler who uses liquid fortification and unpredictable movement to avoid damage and protect allies.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Díru",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 20805,
+				"thumbnail" : "mannoroth/117/64483445-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Quexn",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 8,
+				"gender" : 0,
+				"level" : 87,
+				"achievementPoints" : 12745,
+				"thumbnail" : "mannoroth/183/64561335-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Discipline",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-priest-discipline",
+					"icon" : "spell_holy_powerwordshield",
+					"description" : "Uses magic to shield allies from taking damage as well as heal their wounds.",
+					"order" : 0
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Munia",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15335,
+				"thumbnail" : "mannoroth/244/64611828-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Thallus",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 80,
+				"achievementPoints" : 15335,
+				"thumbnail" : "mannoroth/29/64818205-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Guardian",
+					"role" : "TANK",
+					"backgroundImage" : "bg-druid-bear",
+					"icon" : "ability_racial_bearform",
+					"description" : "Takes on the form of a mighty bear to absorb damage and protect allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Ðonkanailla",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 16695,
+				"thumbnail" : "mannoroth/52/64903732-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Fire",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-fire",
+					"icon" : "spell_fire_firebolt02",
+					"description" : "Ignite enemies with balls of fire and combustive flames.",
+					"order" : 1
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Lynatikd",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 61,
+				"achievementPoints" : 15760,
+				"thumbnail" : "mannoroth/162/65527714-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Blood",
+					"role" : "TANK",
+					"backgroundImage" : "bg-deathknight-blood",
+					"icon" : "spell_deathknight_bloodpresence",
+					"description" : "A dark guardian who manipulates and corrupts life energy to sustain herself in the face of an enemy onslaught.",
+					"order" : 0
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Fjón",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 10385,
+				"thumbnail" : "mannoroth/202/65576906-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Holy",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-paladin-holy",
+					"icon" : "spell_holy_holybolt",
+					"description" : "Invokes the power of the Light to protect and to heal.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Stancestan",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 16695,
+				"thumbnail" : "mannoroth/58/65580090-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arms",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warrior-arms",
+					"icon" : "ability_warrior_savageblow",
+					"description" : "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+					"order" : 0
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Fijon",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 8,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 10355,
+				"thumbnail" : "mannoroth/89/65645913-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Arcane",
+					"role" : "DPS",
+					"backgroundImage" : "bg-mage-arcane",
+					"icon" : "spell_holy_magicalsentry",
+					"description" : "Manipulate the arcane, destroying enemies with overwhelming power.",
+					"order" : 0
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Watchmegate",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 5,
+				"gender" : 1,
+				"level" : 85,
+				"achievementPoints" : 5520,
+				"thumbnail" : "mannoroth/218/65660378-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Destruction",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-destruction",
+					"icon" : "spell_shadow_rainoffire",
+					"description" : "A master of chaos who calls down fire to burn and demolish enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Pândra",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 11330,
+				"thumbnail" : "mannoroth/144/65770128-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Shadow",
+					"role" : "DPS",
+					"backgroundImage" : "bg-priest-shadow",
+					"icon" : "spell_shadow_shadowwordpain",
+					"description" : "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Pandralock",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 8,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 11330,
+				"thumbnail" : "mannoroth/99/65826403-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Destruction",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-destruction",
+					"icon" : "spell_shadow_rainoffire",
+					"description" : "A master of chaos who calls down fire to burn and demolish enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Fjonxl",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 26,
+				"achievementPoints" : 9485,
+				"thumbnail" : "mannoroth/27/65931547-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Affliction",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-affliction",
+					"icon" : "spell_shadow_deathcoil",
+					"description" : "A master of shadow magic who specializes in drains and damage-over-time spells.",
+					"order" : 0
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Whakko",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 9,
+				"race" : 5,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 17725,
+				"thumbnail" : "mannoroth/234/65965034-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Destruction",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warlock-destruction",
+					"icon" : "spell_shadow_rainoffire",
+					"description" : "A master of chaos who calls down fire to burn and demolish enemies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Fjóna",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 5,
+				"race" : 10,
+				"gender" : 1,
+				"level" : 26,
+				"achievementPoints" : 0,
+				"thumbnail" : "mannoroth/4/65975556-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Sergejfälich",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 3,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 10,
+				"achievementPoints" : 0,
+				"thumbnail" : "mannoroth/197/65995205-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Chojo",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 2,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 11330,
+				"thumbnail" : "mannoroth/86/66159446-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Brewmaster",
+					"role" : "TANK",
+					"backgroundImage" : "bg-monk-brewmaster",
+					"icon" : "spell_monk_brewmaster_spec",
+					"description" : "A sturdy brawler who uses liquid fortification and unpredictable movement to avoid damage and protect allies.",
+					"order" : 0
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Phuu",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 74,
+				"achievementPoints" : 6575,
+				"thumbnail" : "mannoroth/3/66259203-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Windwalker",
+					"role" : "DPS",
+					"backgroundImage" : "bg-monk-battledancer",
+					"icon" : "spell_monk_windwalker_spec",
+					"description" : "A martial artist without peer who pummels foes with hands and fists.",
+					"order" : 2
+				}
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Zylor",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 2,
+				"race" : 10,
+				"gender" : 0,
+				"level" : 87,
+				"achievementPoints" : 5360,
+				"thumbnail" : "mannoroth/162/66327970-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Retribution",
+					"role" : "DPS",
+					"backgroundImage" : "bg-paladin-retribution",
+					"icon" : "spell_holy_auraoflight",
+					"description" : "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+					"order" : 2
+				}
+			},
+			"rank" : 7
+		}, {
+			"character" : {
+				"name" : "Pandraparrys",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 26,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 11330,
+				"thumbnail" : "mannoroth/68/66347588-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Protection",
+					"role" : "TANK",
+					"backgroundImage" : "bg-warrior-protection",
+					"icon" : "ability_warrior_defensivestance",
+					"description" : "A stalwart protector who uses a shield to safeguard himself and his allies.",
+					"order" : 2
+				}
+			},
+			"rank" : 2
+		}, {
+			"character" : {
+				"name" : "Fjôn",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 10385,
+				"thumbnail" : "mannoroth/25/66371609-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-druid-restoration",
+					"icon" : "spell_nature_healingtouch",
+					"description" : "Uses heal-over-time Nature spells to keep allies alive.",
+					"order" : 3
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Fjôna",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 10,
+				"race" : 26,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 10385,
+				"thumbnail" : "mannoroth/65/66444097-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Mistweaver",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-monk-mistweaver",
+					"icon" : "spell_monk_mistweaver_spec",
+					"description" : "A healer who mixes traditional herbal medicine with Pandaren martial arts.",
+					"order" : 1
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Braline",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 11,
+				"race" : 6,
+				"gender" : 1,
+				"level" : 90,
+				"achievementPoints" : 15760,
+				"thumbnail" : "mannoroth/48/66457648-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Restoration",
+					"role" : "HEALING",
+					"backgroundImage" : "bg-druid-restoration",
+					"icon" : "spell_nature_healingtouch",
+					"description" : "Uses heal-over-time Nature spells to keep allies alive.",
+					"order" : 3
+				}
+			},
+			"rank" : 3
+		}, {
+			"character" : {
+				"name" : "Phteven",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 6,
+				"race" : 6,
+				"gender" : 0,
+				"level" : 55,
+				"achievementPoints" : 0,
+				"thumbnail" : "mannoroth/211/66483411-avatar.jpg",
+				"guild" : "minimal effort"
+			},
+			"rank" : 8
+		}, {
+			"character" : {
+				"name" : "Thantaros",
+				"realm" : "Mannoroth",
+				"battlegroup" : "Blutdurst",
+				"class" : 1,
+				"race" : 2,
+				"gender" : 0,
+				"level" : 90,
+				"achievementPoints" : 17725,
+				"thumbnail" : "mannoroth/246/66688246-avatar.jpg",
+				"guild" : "minimal effort",
+				"spec" : {
+					"name" : "Fury",
+					"role" : "DPS",
+					"backgroundImage" : "bg-warrior-fury",
+					"icon" : "ability_warrior_innerrage",
+					"description" : "A furious berserker wielding a weapon in each hand, unleashing a flurry of attacks to carve her opponents to pieces.",
+					"order" : 1
+				}
+			},
+			"rank" : 8
+		}
+	],
+	"emblem" : {
+		"icon" : 163,
+		"iconColor" : "ffdfa55a",
+		"border" : 1,
+		"borderColor" : "ff0f1415",
+		"backgroundColor" : "ff4f2300"
+	}
+}

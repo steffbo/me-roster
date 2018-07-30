@@ -1,0 +1,250 @@
+body {
+	background: #deefff;
+	background: -moz-linear-gradient(top,  #deefff 0%, #98bede 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#deefff), color-stop(100%,#98bede));
+	background: -webkit-linear-gradient(top,  #deefff 0%,#98bede 100%);
+	background: -o-linear-gradient(top,  #deefff 0%,#98bede 100%);
+	background: -ms-linear-gradient(top,  #deefff 0%,#98bede 100%);
+	background: linear-gradient(to bottom,  #deefff 0%,#98bede 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deefff', endColorstr='#98bede',GradientType=0 );
+	background-repeat: no-repeat;
+}
+
+/* Class colors */
+.class_Warrior {color: #C79C6E;}
+.class_Paladin {color: #F58CBA;}
+.class_Hunter {color: #ABD473;}
+.class_Rogue {color: #FFF569;}
+.class_Priest {color: #FFFFFF;}
+.class_Deathknight {color: #C41F3B;}    
+.class_Shaman {color: #2459FF;}
+.class_Mage {color: #69CCF0;}
+.class_Warlock {color: #9482C9;}
+.class_Monk {color: #00ffba;}
+.class_Druid {color: #FF7D0A;}
+
+/* Roster */
+
+.roster-roles {
+	width: 820px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 10px;
+	-moz-column-count: 2;
+	-moz-column-gap: 10px;
+	column-count: 2;
+	column-gap: 10px;
+}
+
+.roster-role {	
+	width: 400px;	
+	border: 1px solid #eee;
+	margin-bottom: 10px;
+	-webkit-column-break-inside: avoid;
+	-moz-column-break-inside: avoid;
+	column-break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+.roster-role-head {
+	padding: 3px 3px 3px 10px;	
+	font-weight: bold;
+	color: #48571E;	
+	background: rgb(246,230,180); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(246,230,180,1) 0%, rgba(237,144,23,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(246,230,180,1)), color-stop(100%,rgba(237,144,23,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(246,230,180,1) 0%,rgba(237,144,23,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(246,230,180,1) 0%,rgba(237,144,23,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(246,230,180,1) 0%,rgba(237,144,23,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(246,230,180,1) 0%,rgba(237,144,23,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6e6b4', endColorstr='#ed9017',GradientType=0 ); /* IE6-9 */	
+}
+
+.roster-role-body {
+	padding: 10px;
+	background-color: #FCD77E;
+}
+
+/* Member */
+
+.roster-member {
+	background-color: #303030;
+	border: solid 1px #ccc;
+	display: inline-block;
+	width: 380px;
+	height: 48px;
+}
+
+.roster-member-thumbnail {	
+	float: left;	
+}
+
+.roster-member-thumbnail img {
+	width: 48px;
+	height: 48px;
+	border-right: 3px solid #FCD77E;
+}
+
+.roster-member-info {
+	float: left;
+	border-right: 3px solid #FCD77E;
+}
+
+.roster-member-spec {
+	padding-bottom: 0px;
+	height: 32px;
+}
+
+.roster-member-spec img {
+	width: 32px;
+	height: 32px;
+}
+
+.roster-member-professions {
+	padding-top: 0px;
+}
+
+.roster-member-professions img {
+	width: 16px;
+	height: 16px;	
+}
+
+.roster-member-name {
+	float: left;
+	font-weight: bold;
+	padding-top: 16px;
+	padding-left: 5px;
+}
+
+.roster-member-armory {
+	float: right; 
+	padding-top: 12px;
+	padding-right: 5px;
+}
+
+.roster-member-armory img {
+	width: 24px;
+	height: 24px;
+}
+  
+/* Admin */
+
+.admin-ranks {
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	column-count: 3;
+	width: 1100px;
+}
+
+.admin-rank {	
+	width: 350px;
+}
+
+.admin-rank-head {
+	background-color: #151515;
+	color: #fff;
+	font-weight: bold;
+	padding: 0 2px;
+}
+
+.admin-roster-amount {
+	float: right;
+}
+
+.admin-rank-body {
+	margin-bottom: 22px;  
+	background-color: #303030;
+	-webkit-column-count: 2;
+	-webkit-column-rule: 2px outset #444;
+	-moz-column-count: 2;
+	-moz-column-rule: 2px outset #444;	
+	column-count: 2;
+	column-rule: 2px outset #444;
+}
+
+.admin-rank-body inactive {
+	padding-top: 2px;
+	padding-left: 2px;
+}
+
+.admin-member {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.admin-member img {
+	width: 14px;
+	height: 14px;
+	padding: 2px 2px 0 0;
+}
+
+.admin-spec-icons {
+	float: right;
+	margin: 2px 2px 0 0;
+}
+
+.admin-spec-icons img {
+	width: 14px;
+	height: 14px;	
+}
+
+.admin-spec-icon {
+	display: inline-block;
+}
+
+.admin-spec-icon img {
+	padding: 1px;
+}
+
+.active img {
+	padding: 0;
+	border: 1px solid #ddd;
+}
+
+.admin-roster {
+	width: 200px;
+	position: fixed;
+	top: 20px;
+	right: 20px;	
+}
+
+.admin-roster-head {
+	background-color: #151515;
+	color: #fff;
+	font-weight: bold;
+	padding: 0 2px;
+}
+
+.admin-roster-body {
+	background-color: #303030;	
+}
+
+.admin-roster-body img {
+	width: 14px;
+	height: 14px;	
+}
+
+/* Options */
+
+.options {
+	background-color: #303030;
+	color: #fff;
+	border: 2px solid #000;
+	position: fixed;
+	bottom: 20px;
+	left: 20px;
+}
+
+img { border: none; }
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.options input {
+	background-color: inherit;
+	color: #fff;
+	border: 1px solid;
+}
